@@ -1,0 +1,82 @@
+body{
+    background-image: url(https://lacuina.cl/images/bg_top_img.jpg);
+}
+
+.menu{
+    width: 400px;
+    border-color: gold;
+    border-style: solid;
+    padding: 5px;
+    margin: 5px;
+}
+
+.boton{
+    background-color: #f9d92e;
+    color: black;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.boton2{
+    background-color: #f9d92e;
+    color: black;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 5px;
+    display: block;
+    width: 100px;
+}
+
+
+
+
+h1{
+    letter-spacing: 3px;
+    color: white;
+    margin: 5px;
+}
+
+h2{
+    letter-spacing: 3px;
+    color: white;
+}
+
+h3{
+    letter-spacing: 3px;
+    color: white;
+}
+
+
+strong{
+    color: gold;
+}
+
+b{
+    color: yellowgreen;
+}
+
+i{
+    color: silver;
+}
+
+sub{
+    color: skyblue;
+    font-size: 10px;
+}
+
+
+p{
+    color: white;
+    text-align: right;
+    word-spacing: 15px;
+}
+
+.parrafo{
+    width: 600px;
+    border-color: gold;
+    border-style: solid;
+    padding: 5px;
+    margin: 5px;
+}
