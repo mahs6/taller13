@@ -1,0 +1,86 @@
+body{
+    background-image: url(https://lacuina.cl/images/bg_top_img.jpg);
+}
+
+.button {
+    display: inline-block;
+    background-color: #cab019;
+    font-size:20px;
+    color:black;
+    padding: 15px;
+    border-radius: 10px;
+    margin:20px;
+    /* -webkit-transition: all 3s; */
+ }
+
+.button:hover {
+    background-color: #f9d92e;
+    font-size:30px;
+    color:black;
+    padding: 15px;   
+    border-radius: 10px;
+    /* -webkit-transition: all 1s; */
+    }
+
+    #cabecera{
+        /* display: inline-block; */
+    }
+    
+
+    .div{
+        display: inline-block;
+        
+    }
+
+    .menu{
+        display: line;
+        background-color: rgb(245, 244, 234);
+        padding: 15px;
+        border-radius: 10px;
+        margin:20px;
+    }
+    h1{
+        color: cornsilk;
+        letter-spacing: 2px;
+    }
+    h3{
+        color: cornsilk;
+        letter-spacing: 2px; 
+    }
+
+    p{
+        color: rgb(2, 1, 0);
+        word-spacing: 11px;
+        text-align: center;
+    
+    }
+
+    .parrafo{
+        padding: 20px;
+        margin: 30px;
+        background-color: cyan;
+        padding: 15px;
+        border-radius: 10px;
+        margin:20px;
+    }
+
+    .menu2{
+        display: block;
+        /* background-color: rgb(245, 244, 234); */
+        padding: 15px;
+        border-radius: 10px;
+        margin:20px;
+        width: 120px;
+        border-color: rgb(0, 255, 42);
+        border-style: groove;
+    }
+    .button2 {
+        display: block;
+        background-color: #deb6ee;
+        font-size:20px;
+        color:black;
+        padding: 15px;
+        border-radius: 10px;
+        margin:20px;
+        /* -webkit-transition: all 3s; */
+     }
